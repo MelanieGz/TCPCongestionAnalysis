@@ -1,0 +1,1 @@
+iperf3 -c juliet -t 60 -C reno
